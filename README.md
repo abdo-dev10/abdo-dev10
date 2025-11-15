@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:<br>👋 Hi there! I'm Abderrhmane Ghedir  <br>💡 A passionate Computer Engineering student and Developer Team Manager at Open Source Community (OSC).  <br>🚀 I love coding, learning new technologies, and building creative projects that make a difference.  <br>💻 Currently exploring web development and open source collaboration.  <br>🌱 Always curious, always learning!  <br><br>📫 Let's connect:  <br>[Discord](https://discord.gg/G7wBYgnQ) | [Email](mailto:abdoudha4@gmail.com)<br><br>
+### 💫 About Me:<br>👋 Hi there! I'm Abderrhmane Ghedir  <br>💡 A passionate Computer Engineering student and Developer Team Manager at Open Source Community (OSC).  <br>🚀 I love coding, learning new technologies, and building creative projects that make a difference.  <br>💻 Currently exploring web development and open source collaboration.  <br>🌱 Always curious, always learning!  <br><br>📫 Let's connect:  <br>[Discord](https://discord.gg/G7wBYgnQ) | [Email](mailto:abdoudha4@gmail.com)<br><br>
 
 
 ## 🌐 Socials:
